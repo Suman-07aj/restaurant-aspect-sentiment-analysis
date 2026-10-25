@@ -1,0 +1,39 @@
+review,aspect,sentiment
+The portions were small for the price.,price,Negative
+The ambience was typical for this type of restaurant.,ambience,Neutral
+The desserts were absolutely wonderful.,food,Positive
+The service was quick and efficient.,service,Positive
+The portions were large for the price.,price,Positive
+The decor was outdated and worn.,ambience,Negative
+The pasta was overcooked and mushy.,food,Negative
+The music was too loud and annoying.,ambience,Negative
+The ambience was noisy and chaotic.,ambience,Negative
+The service was very slow and inattentive.,service,Negative
+Our waiter ignored us for most of the meal.,service,Negative
+The seafood smelled bad.,food,Negative
+The staff was rude and unhelpful.,service,Negative
+Our waiter was very professional.,service,Positive
+The management was unresponsive to complaints.,service,Negative
+The desserts were too sweet and artificial.,food,Negative
+Overpriced and not worth it.,price,Negative
+The food was amazing and delicious.,food,Positive
+The restaurant was too crowded and uncomfortable.,ambience,Negative
+The food was cold and tasteless.,food,Negative
+The staff was friendly and helpful.,service,Positive
+The pasta was perfectly cooked and flavorful.,food,Positive
+The prices were standard for the area.,price,Neutral
+The restaurant has a beautiful atmosphere.,ambience,Positive
+The steak was tender and juicy.,food,Positive
+Great value for the money.,price,Positive
+"The service was average, neither good nor bad.",service,Neutral
+The seafood was fresh and well-prepared.,food,Positive
+"The food was okay, nothing special.",food,Neutral
+The music was pleasant and not too loud.,ambience,Positive
+The prices were too high for the quality.,price,Negative
+The service was excellent and attentive.,service,Positive
+The decor was elegant and tasteful.,ambience,Positive
+The service was terrible and disorganized.,service,Negative
+The ambience was cozy and romantic.,ambience,Positive
+The steak was tough and dry.,food,Negative
+The management was very accommodating.,service,Positive
+The prices were very reasonable.,price,Positive
